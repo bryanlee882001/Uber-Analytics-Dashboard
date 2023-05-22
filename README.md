@@ -8,4 +8,4 @@ The Uber Analytics Dashboard project was a comprehensive analytics solution deve
 ![Uber Data Model Diagram](https://github.com/bryanlee882001/Uber-Analytics-Dashboard/assets/63344458/36c217f0-5d98-4d5c-8a64-79a7968d6d56)
 
 # Final Dashboard 
-
+![Uber_Analytics_Dashboard](https://github.com/bryanlee882001/Uber-Analytics-Dashboard/assets/63344458/38487d3e-f71c-492d-90ba-d7f450aee9fc)
